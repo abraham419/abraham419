@@ -11,6 +11,7 @@ con ganas de aprender desarrollo full-stack y dedicarme profesionalmente a este 
 ## Algunos comandos de la terminal aprendidos
 
 | Comando | Descripción                                         |
+| ------- | --------------------------------------------------- |
 | clear   | Limpia la pantalla                                  |
 | ls      | Lista los archivos del directorio actual            |
 | cat     | Se utiliza para mostrar el contenido de un archivo  |
@@ -20,6 +21,7 @@ con ganas de aprender desarrollo full-stack y dedicarme profesionalmente a este 
 ## Alias de mucha utilidad
 
 | Alias       | Descripción                                 |
+| ----------- | ------------------------------------------- |
 | cl=clear    | Limpia pantalla                             |
 | cp="cp -i"  | Confirmar antes de sobreescribir un fichero |
 
