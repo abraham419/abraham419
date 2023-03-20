@@ -20,11 +20,18 @@ con ganas de aprender desarrollo full-stack y dedicarme profesionalmente a este 
 
 ## Alias de mucha utilidad
 
-| Alias       | Descripción                                 |
-| ----------- | ------------------------------------------- |
-| cl=clear    | Limpia pantalla                             |
-| cp="cp -i"  | Confirmar antes de sobreescribir un fichero |
+1. Alias 'cl'
 
+Este alias permite limpiar la interfaz de la terminal
+``` bash
+alias cl = "clear"
+```
+2. Alias 'rm'
+
+Este alias previene borrar archivos permanentemente
+``` bash
+alias rm = "trash"
+```
 <!--
 **abraham419/abraham419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
